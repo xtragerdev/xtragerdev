@@ -76,3 +76,4 @@ Fundador de **Iced Fox Studios**: ganador de **ModJam 2025** y con **1.5M+ desca
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:6366f1,100:0ea5e9" />
 </p>
+
