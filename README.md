@@ -9,9 +9,9 @@
 
 <p align="center">
   <a href="https://www.icedfoxstudios.com/"><img src="https://img.shields.io/badge/Iced_Fox_Studios-Live-111827?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-  <img src="https://img.shields.io/badge/ModJam-Grand_Winner_2025-f59e0b?style=for-the-badge">
-  <img src="https://img.shields.io/badge/CurseForge-1.5M%2B_Downloads-f97316?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Partner-BisectHosting-2563eb?style=for-the-badge">
+  <a href="https://mod.curseforge.com/minecraft-modjam/?utm_source=curseforge_web&utm_medium=banner&utm_campaign=mcmodjam-2025#tab-panel-4"><img src="https://img.shields.io/badge/ModJam-Grand_Winner_2025-f59e0b?style=for-the-badge"></a>
+  <a href="https://www.curseforge.com/members/iced_fox_studios/projects"><img src="https://img.shields.io/badge/CurseForge-1.5M%2B_Downloads-f97316?style=for-the-badge"></a>
+  <a href="https://bisecthosting.com/icedfox"><img src="https://img.shields.io/badge/Partner-BisectHosting-2563eb?style=for-the-badge"></a>
 </p>
 
 ---
@@ -37,9 +37,9 @@ Founder of **Iced Fox Studios** — **ModJam 2025 Grand Winner** with **1.5M+ do
 
 ## Highlights
 
-- **Grand Winner** — ModJam 2025
-- **1.5M+ downloads** on CurseForge
-- First Iced Fox Studios partner contract: **BisectHosting**
+- **Grand Winner** — [ModJam 2025](https://mod.curseforge.com/minecraft-modjam/?utm_source=curseforge_web&utm_medium=banner&utm_campaign=mcmodjam-2025#tab-panel-4)
+- **1.5M+ downloads** — [CurseForge Projects](https://www.curseforge.com/members/iced_fox_studios/projects)
+- First Iced Fox Studios partner contract — [BisectHosting](https://bisecthosting.com/icedfox)
 - Professional experience in **Minecraft Bedrock Marketplace** work
 
 ---
