@@ -1,10 +1,10 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6366f1,100:0ea5e9&text=XtraGer%20Dev&fontAlign=50&fontAlignY=38&fontSize=55&desc=Full-Stack%20Developer%20%7C%20Minecraft%20Ecosystem&descAlignY=58" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6366f1,100:0ea5e9&text=XtraGer%20Dev&fontAlign=50&fontAlignY=38&fontSize=55&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20Minecraft%20Ecosystem&descAlignY=58&descSize=20" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=60A5FA&center=true&vCenter=true&width=850&lines=Grand+Winner+ModJam+2025;1.5M%2B+downloads+on+CurseForge;Personal+hiring+work+on+Minecraft+Bedrock+Marketplace;First+Iced+Fox+Studios+partner%3A+BisectHosting" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=FFFFFF&center=true&vCenter=true&width=900&lines=Grand+Winner+ModJam+2025;1.5M%2B+downloads+on+CurseForge;Personal+hiring+work+on+Minecraft+Bedrock+Marketplace;First+Iced+Fox+Studios+partner%3A+BisectHosting" />
 </p>
 
 <p align="center">
@@ -18,12 +18,12 @@
 
 ## About Me
 
-Soy **Full-Stack Developer** especializado en productos web y ecosistema Minecraft.  
-Fundador de **Iced Fox Studios**: ganador de **ModJam 2025** y con **1.5M+ descargas** en CurseForge.
+I’m a **Full-Stack Developer** focused on web products and the Minecraft ecosystem.  
+Founder of **Iced Fox Studios** — **ModJam 2025 Grand Winner** with **1.5M+ downloads** on CurseForge.
 
-- Contrataciones personales en **Minecraft Bedrock Marketplace**
-- Arquitectura y desarrollo de plataformas (PHP, JS, MySQL, APIs)
-- Productos con IA para developers y jugadores
+- Personal hiring work on the **Minecraft Bedrock Marketplace**
+- Platform architecture and development (PHP, JavaScript, MySQL, REST APIs)
+- AI-powered tools for developers and players
 
 ---
 
@@ -37,32 +37,10 @@ Fundador de **Iced Fox Studios**: ganador de **ModJam 2025** y con **1.5M+ desca
 
 ## Highlights
 
-- Grand Winner de la **ModJam 2025**
-- Más de **1.5M+ descargas** en CurseForge
-- Contrato con primer partner de Iced Fox Studios: **BisectHosting**
-- Experiencia real en **Marketplace de Minecraft Bedrock**
-
----
-
-## Featured Projects
-
-- [Iced Fox Studios](https://www.icedfoxstudios.com/)
-- [NebbyCraft](https://nebbycraft.com/)
-- [AxolotlSync](https://axolotlsync.com/)
-- [PluginForge](https://pluginforge.site/)
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true" />
-</p>
+- **Grand Winner** — ModJam 2025
+- **1.5M+ downloads** on CurseForge
+- First Iced Fox Studios partner contract: **BisectHosting**
+- Professional experience in **Minecraft Bedrock Marketplace** work
 
 ---
 
@@ -71,7 +49,7 @@ Fundador de **Iced Fox Studios**: ganador de **ModJam 2025** y con **1.5M+ desca
 - Email: `work@xtrager.dev`
 - Discord: `xtrager_dev`
 - YouTube: [@xtrager_dev](https://www.youtube.com/@xtrager_dev)
-- GitHub: [TU_USUARIO](https://github.com/TU_USUARIO)
+- GitHub: [xtragerdev](https://github.com/xtragerdev)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:6366f1,100:0ea5e9" />
