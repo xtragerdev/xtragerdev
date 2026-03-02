@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">XtraGer Dev</h1>
+<p align="center">
+  Full-Stack Developer | Minecraft Ecosystem Builder
+</p>
 
-<!--
-**xtragerdev/xtragerdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.icedfoxstudios.com/">Iced Fox Studios</a> ·
+  Grand Winner ModJam 2025 ·
+  1.5M+ descargas en CurseForge
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://img.shields.io/badge/ModJam-Grand%20Winner%202025-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CurseForge-1.5M%2B%20Downloads-f97316?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Partner-BisectHosting-2563eb?style=for-the-badge" />
+</p>
